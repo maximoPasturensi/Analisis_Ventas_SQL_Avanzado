@@ -17,7 +17,7 @@ Este es un analisis del comportamineto del cliente, retencion del mismo y la gan
 
 **Grafico:**
 
-<img src=/Users/maximopasturensi/Library/DBeaverData/workspace6/Int_SQL_Project/images/distribucion_por_segmento_de_valor.png>
+<img src="/Users/maximopasturensi/Library/DBeaverData/workspace6/Int_SQL_Project/images/distribucion_por_segmento_de_valor.png>"
 
 ### 📊 Claves
 
