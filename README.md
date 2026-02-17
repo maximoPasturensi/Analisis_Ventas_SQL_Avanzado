@@ -17,7 +17,9 @@ Este es un analisis del comportamineto del cliente, retencion del mismo y la gan
 
 **Grafico:**
 
-<img src="/Users/maximopasturensi/Library/DBeaverData/workspace6/Int_SQL_Project/images/distribucion_por_segmento_de_valor.png>"
+![Cohortes](images/distribucion_por_segmento_de_valor.png)
+
+
 
 ### 📊 Claves
 
@@ -32,7 +34,8 @@ Este es un analisis del comportamineto del cliente, retencion del mismo y la gan
 
 **Grafico:** 
 
-<img src= /Users/maximopasturensi/Library/DBeaverData/workspace6/Int_SQL_Project/images/cohorts.png>
+![Cohortes](images/cohorts.png)
+
 
 ### 📊 Claves
 
@@ -53,7 +56,8 @@ El porcentaje elevado de inactividad sugiere una oportunidad clara para implemen
 
 **Grafico:** 
 
-<img src= /Users/maximopasturensi/Library/DBeaverData/workspace6/Int_SQL_Project/images/churn.png>
+![Cohortes](images/churn.png)
+
 
 ### 📊 Claves
 
